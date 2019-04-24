@@ -51,4 +51,4 @@ while goAgain == 1:
         # This keeps the while loop going or exits it based on the text you see
         goAgain = int(raw_input("Type 1 to enter more numbers, or any other number to quit: "))
 
-print "Goodbye!\n"
+print "GoodILObye!\n"
